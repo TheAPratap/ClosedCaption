@@ -3,7 +3,7 @@
 
 It is a Web app created using ReactJS.
 
-# Hosted On: https://ccaption.herokuapp.com
+Hosted On: https://ccaption.herokuapp.com
 
 <img width="1200" alt="Screenshot 2022-07-13 at 2 49 53 PM" src="https://user-images.githubusercontent.com/16948492/178698824-3e5f2e88-0101-4e48-bd12-1860cd828792.png">
 
